@@ -1,4 +1,4 @@
-name: Beckup my Github
+name: Backup my Github
 
 on:
   push:
